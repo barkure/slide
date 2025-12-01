@@ -23,11 +23,11 @@ Fig 1. Workflow of conventional FWI based on the adjoint-state method.
 
 # IFWI
 
-<img border="rounded" class='mt-15 mx-auto w-[700px]' src="/fig2.png">
+<img border="rounded" class='mt-12 mx-auto w-[600px]' src="/fig2.png">
 
-<div class='mt-4 text-center'>
+<div class='mt-2 text-center'>
 
-Fig 2. The schematic workflow of implicit full waveform inversion,  where $\Sigma$ and $f$ denote the linear transformation and the activation function in the calculation of a single neuron.
+Fig 2. The schematic workflow of implicit full waveform inversion.
 </div>
 
 ---
